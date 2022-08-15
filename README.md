@@ -24,7 +24,6 @@
 
 ---
 
-На [примере сети](https://github.com/netology-code/qos-homeworks/blob/main/7-01/qos7_1_homework.pkt) выполните следующие задания:
 
 ### Задание 1. 
 
