@@ -33,7 +33,7 @@ Vagrant.configure("2") do |config|
   end
    
   config.vm.define "mikrot" do |mikrot|
-    mikrot.vm.box = "https://storage.yandexcloud.net/dtomin-netology/chr-6_49.box"
+    mikrot.vm.box = "https://storage.yandexcloud.net/dtomin-netology/net_pub_91_vagrant-6_49.box"
     mikrot.vm.network "private_network", ip: "192.168.56.5"
     mikrot.vm.provider "virtualbox" do |mikrot|
     # Customize the amount of memory on the VM:
